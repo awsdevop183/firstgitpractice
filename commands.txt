@@ -1,0 +1,500 @@
+    3  ssh -i testkey.pem ec2-user@
+    4  ssh -i testkey.pem ec2-user@52.90.58.173
+    5  ssh ec2-user@3.93.187.69 -i testkey.pem 
+    6  ssh -i testkey.pem ec2-user@18.234.53.22
+    7  ssh -i testkey.pem ec2-user@18.234.53.22
+    8  ssh -i testkey.pem ec2-user@50.17.84.61
+    9  ssh -i testkey.pem ec2-user@3.88.156.45
+   10  ssh -i testkey.pem ec2-user@3.88.156.45
+   11  ssh -i testkey.pem ec2-user@52.201.222.82
+   12  ssh ec2-user@18.209.231.236 -i testkey.pem 
+   13  ssh -i testkey.pem ec2-user@18.207.223.49
+   14  ssh -i testkey.pem ec2-user@
+   15  ssh -i testkey.pem ec2-user@100.26.52.83
+   16  ssh -i testkey.pem ec2-user@
+   17  ssh -i testkey.pem ec2-user@
+   18  ssh -i testkey.pem ec2-user@54.242.247.135
+   19  ssh -i testkey.pem ec2-user@18.209.9.66
+   20  ssh -i testkey.pem ec2-user@35.174.6.151
+   21  ssh -i testkey.pem ec2-user@18.119.0.77
+   22  ssh -i testkey.pem ec2-user@18.119.0.77
+   23  ssh -i testkey.pem ec2-user@34.201.26.3
+   24  ssh -i testkey.pem ec2-user@3.237.200.193
+   25  ssh -i testkey.pem ec2-user@3.237.200.193
+   26  ssh -i testkey.pem ec2-user@3.237.200.193
+   27  ssh -i testkey.pem ec2-user@3.237.200.193
+   28  ssh -i testkey.pem ec2-user@3.237.200.193
+   29  ssh -i testkey.pem ec2-user@3.237.200.193
+   30  ssh -i testkey.pem ec2-user@3.237.200.193
+   31  ssh -i testkey.pem ec2-user@3.237.200.193
+   32  ssh -i testkey.pem ec2-user@3.237.200.193
+   33  ssh -i testkey.pem ec2-user@3.237.200.193
+   34  ssh -i testkey.pem ec2-user@3.237.200.193
+   35  ssh -i testkey.pem ec2-user@3.237.200.193
+   36  ssh -i mumbai-key.pem ec2-user@13.234.202.104
+   37  ifconfig
+   38  ipconfig
+   39  ping 192.168.1.126
+   40  ssh -i testkey.pem ec2-user@54.146.206.253
+   41  ssh -i testkey.pem ec2-user@18.215.166.18
+   42  ssh -i testkey.pem ec2-user@18.215.166.18
+   43  ssh -i testkey.pem ec2-user@18.215.166.18
+   44  ssh -i testkey.pem ec2-user@44.193.26.35
+   45  ssh -i mumbai-key.pem ec2-user@13.127.225.105
+   46  ssh -i mumbai-key.pem ec2-user@13.127.225.105
+   47  ssh -i mumbai-key.pem ec2-user@13.127.225.105
+   48  ssh -i testkey.pem ec2-user@3.84.150.144
+   49  ssh -i testkey.pem ec2-user@3.84.150.144
+   50  ssh -i testkey.pem ec2-user@3.234.226.56
+   51  ssh -i testkey.pem ec2-user@3.234.226.56
+   52  ssh -i testkey.pem ec2-user@3.234.226.56
+   53  ssh -i testkey.pem ec2-user@3.234.226.56
+   54  ssh -i testkey.pem ec2-user@3.234.226.56
+   55  ssh -i testkey.pem ec2-user@3.234.226.56
+   56  ssh -i testkey.pem ec2-user@44.198.167.228
+   57  ssh -i testkey.pem ec2-user@3.239.149.6
+   58  ssh -i testvpc.pem ec2-user@3.21.237.31
+   59  ssh -i testvpc.pem ec2-user@3.21.237.31
+   60  ssh-keygen -t rsa
+   61  ssh-keygen -t rsa
+   62  ssh ubuntu@128.199.27.71
+   63  ssh root@128.199.27.71
+   64  ssh root@128.199.27.71
+   65  ssh root@128.199.27.71
+   66  ssh root@128.199.27.71
+   67  git clone https://github.com/awsdevop183/sample-maven.git
+   68  cd sample-maven/
+   69  ls
+   70  git add .
+   71  git push origin main
+   72  git commit -m "sample maven"
+   73  git push origin main
+   74  ls
+   75  vi Dockerfile
+   76  git add Dockerfile
+   77  git commit -m "Dockerfile" 
+   78  git push origin main
+   79  git clone https://github.com/web3j/sample-project-maven.git
+   80  git clone https://github.com/web3j/sample-project-maven.git
+   81  git clone https://github.com/awsdevop183/sample-maven-2.git
+   82  git add .
+   83  git commit -m "sample-2"
+   84  git push origin main
+   85  git clone https://github.com/javaparser/javaparser-maven-sample.git
+   86  git clone 
+   87  git clone 
+   88  git clone https://github.com/awsdevop183/maven-2.git
+   89  ls
+   90  vi Dockerfile
+   91  git clone https://github.com/jenkins-docs/simple-java-maven-app.git
+   92  cd simple-java-maven-app/
+   93  vi Dockerfile 
+   94  git clone https://github.com/SaiKumarPanda28/Test1.git
+   95  git clone https://github.com/awsdevop183/abhitest.git
+   96  git status
+   97  git remote -v
+   98  git remote add origin https://github.com/awsdevop183/abhitest.git
+   99  git remote add abhi https://github.com/awsdevop183/abhitest.git
+  100  git push abhi main
+  101  git remote -v
+  102  git pull abhi main
+  103  git add .
+  104  git commit -m "all"
+  105  git push abhi main
+  106  git push origin main
+  107  git add .
+  108  git commit -m "ad"
+  109  git push origin main
+  110  git clone https://github.com/SaiKumarPanda28/Test1.git
+  111  ssh-keygen -t rsa
+  112  ping 54.226.248.126
+  113  ssh ec2-user@54.226.248.126
+  114  ssh-copy-id -i testkey.pem ec2-user@54.226.248.126
+  115  ssh-copy-id ec2-user@54.226.248.126 -i testkey.pem
+  116  ssh-copy-id ec2-user@54.226.248.126
+  117  ssh ec2-user@54.226.248.126
+  118  ssh-copy-id -o "testkey.pem" ec2-user@54.226.248.126
+  119  ssh-keygen -t rsa
+  120  ssh-keygen -t rsa
+  121  ssh-copy-id ec2-user@ssh/id_rsa.pub
+  122  ssh-copy-id ec2-user@54.226.248.126
+  123  ssh-copy-id ec2-user@54.226.248.126 -o testkey.pem 
+  124  ssh-copy-id help
+  125  ssh-copy-id ec2-user@54.226.248.126 -f testkey.pem 
+  126  ssh-copy-id -f testkey.pem ec2-user@54.226.248.126 
+  127  ssh-copy-id -f "testkey.pem" ec2-user@54.226.248.126 
+  128  ssh-copy-id -i "testkey.pem" ec2-user@54.226.248.126 
+  129  ssh-copy-id -o "testkey.pem" ec2-user@54.226.248.126 
+  130  ssh-keygen -t rsa
+  131  ssh ec2-user@54.226.248.126
+  132  ssh -i testkey.pem ec2-user@54.226.248.126
+  133  ssh -i testkey.pem ec2-user@54.226.248.126
+  134  ssh -i testkey.pem ec2-user@54.226.248.126
+  135  ssh -i testkey.pem ec2-user@54.226.248.126
+  136  ssh -i testkey.pem ec2-user@54.226.248.126
+  137  ssh -i testkey.pem ec2-user@54.226.248.126
+  138  ssh -i testkey.pem ec2-user@54.226.248.126
+  139  ssh ec2-user@54.226.248.126
+  140  ssh-keygen -t rsa
+  141  ssh ec2-user@3.91.244.138
+  142  ssh-copy-id -o testkey.pem ec2-user@3.91.244.138
+  143  ssh ec2-user@3.91.244.138
+  144  ssh ec2-user@3.91.244.138 -i test
+  145  ssh ec2-user@3.91.244.138 -i testkey.pem 
+  146  ssh -i testkey.pem ec2-user@3.91.244.138 
+  147  ssh -i testkey.pem ec2-user@3.91.244.138 
+  148  ssh ec2-user@54.172.181.103
+  149  ls
+  150  ssh-copy-id -i id_rsa.pub -o testkey.pem ec2-user@3.91.244.138
+  151  ssh-copy-id -i id_rsa.pub -o "testkey.pem" ec2-user@3.91.244.138
+  152  ssh-copy-id -o "testkey.pem" -i testkey.pem ec2-user@3.91.244.138
+  153  ssh-copy-id -o testkey.pem -o testkey.pem ec2-user@3.91.244.138
+  154  ssh-copy-id -i id_rsa.pub -o "testkey.pem" ec2-user@3.91.244.138
+  155  ssh-copy-id -o id_rsa.pub -i "testkey.pem" ec2-user@3.91.244.138
+  156  ssh-copy-id -o "testkey.pem" -i id_rsa.pub ec2-user@3.91.244.138
+  157  ssh-copy-id -i "testkey.pem" -o id_rsa.pub ec2-user@3.91.244.138
+  158  ssh-copy-id -i id_rsa.pub ec2-user@3.91.244.138
+  159  ssh-copy-id -i id_rsa.pub ec2-user@3.91.244.138 -o testkey.pem 
+  160  ssh-copy-id -i id_rsa.pub -i testkey.pem ec2-user@3.91.244.138
+  161  ssh-copy-id -i id_rsa.pub -o testkey.pem ec2-user@3.91.244.138
+  162  ssh-copy-id -i id_rsa.pub -o testkey.pem ec2-user@3.91.244.138
+  163  ssh ec2-user@3.91.244.138
+  164  scp id_rsa.pub -i testkey.pem ec2-user@
+  165  scp id_rsa.pub -i testkey.pem ec2-user@3.91.244.138:/home/ec2-user
+  166  ssh ec2-user@3.91.244.138
+  167  scp id_rsa.pub -i testkey.pem ec2-user@3.91.244.138:/home/ec2-user/.ssh/authorized_keys
+  168  scp -i testkey.pem id_rsa.pub ec2-user@3.91.244.138:/home/ec2-user/.ssh/authorized_keys
+  169  scp id_rsa.pub ec2-user@3.91.244.138:/home/ec2-user/.ssh/authorized_keys -i testkey.pem 
+  170  scp -i testkey.pem ec2-user@3.91.244.138:/home/ec2-user/.ssh/authorized_keys id_rsa.pub 
+  171  scp -i testkey.pem id_rsa.pub ec2-user@3.91.244.138:/home/ec2-user/.ssh/authorized_keys 
+  172  ssh-copy-id -i id_rsa.pub -o testkey.pem ec2-user@54.172.181.103
+  173  scp -i testkey.pem id_rsa.pub ec2-user@54.172.181.103:/home/ec2-user/.ssh/authorized_keys
+  174  ssh ec2-user@3.91.244.138
+  175  ssh ec2-user@3.91.244.138 -i test
+  176  ssh ec2-user@3.91.244.138 -i testkey.pem 
+  177  scp -i id_rsa.pub ec2-user@3.91.244.138:/home/ec2-user/.ssh/authorized_keys
+  178  scp id_rsa.pub ec2-user@3.91.244.138:/home/ec2-user/.ssh/authorized_keys
+  179  ssh ec2-user@3.91.244.138
+  180  nslookup AutoScaling-NLB-409e2d52a6b94e51.elb.us-east-1.amazonaws.com
+  181  curl AutoScaling-NLB-409e2d52a6b94e51.elb.us-east-1.amazonaws.com
+  182  ssh testkey.pem ec2-user@54.172.16.76
+  183  ssh -i testkey.pem ec2-user@54.172.16.76
+  184  ssh -i testkey.pem ec2-user@54.172.16.76
+  185  ssh -i testkey.pem ec2-user@3.88.68.40
+  186  ssh -i jenkins-job.pem ec2-user@54.145.13.64
+  187  scp -r -i testkey.pem html5 ec2-user@34.207.81.85:/home/ec2-user
+  188  ssh -i testkey.pem ec2-user@34.207.81.85
+  189  ssh root@10.10.196.72
+  190  aws
+  191  aws configure
+  192  ssh -i testkey.pem ec2-user@44.193.198.191
+  193  la
+  194  ls
+  195  ssh -i testkey.pem ec2-user@54.85.70.183
+  196  mkdir newfolder
+  197  ssh ec2-user@52.201.237.80 -i testkey.pem 
+  198  ssh ec2-user@3.237.65.6 -i testkey.pem 
+  199  ssh ec2-user@3.238.141.232 -i testkey.pem
+  200  ssh ec2-user@34.229.141.9 -i testkey.pem 
+  201  ssh ec2-user@34.229.141.9 -i testkey.pem 
+  202  ssh ec2-user@34.229.141.9 -i testkey.pem 
+  203  ssh ec2-user@34.229.141.9 -i testkey.pem 
+  204  ssh ec2-user@3.239.255.173 -i testkey.pem 
+  205  ssh ec2-user@3.239.255.173 -i testkey.pem
+  206  git clone https://github.com/awsdevop183/masterdocker.git
+  207  cd masterdocker/
+  208  ls
+  209  pwd
+  210  cd ..
+  211  git clone https://github.com/Nitin369/TestProject.git
+  212  ssh -i testkey.pem ec2-user@
+  213  ssh -i ec2.pem ec2-user@100.26.99.204
+  214  ssh -i testkey.pem ec2-user@52.91.190.161
+  215  ssh -i testkey.pem ec2-user@52.91.190.161
+  216  chmod 400 testkey.pem 
+  217  ssh -i testkey.pem ec2-user@52.91.190.161
+  218  ssh -i testkey.pem ec2-user@52.91.190.161
+  219  ssh -i testkey.pem ec2-user@
+  220  ssh -i testkey.pem ec2-user@
+  221  ssh -i testkey.pem ec2-user@52.91.190.161
+  222  ls
+  223  cd Downloads
+  224  ssh -i TodayKey.pem ec2-user@100.27.20.238
+  225  ssh -i TodayKey.pem ec2-user@3.82.144.189
+  226  chmod 400 TodayKey.pem 
+  227  ssh -i TodayKey.pem ec2-user@3.82.144.189
+  228  ssh -i TodayKey.pem ec2-user@3.82.144.189
+  229  ssh -i TodayKey.pem ec2-user@3.82.144.189
+  230  ssh -i TodayKey.pem ec2-user@3.82.144.189
+  231  ssh -i TodayKey.pem ec2-user@3.82.144.189
+  232  ssh -i TodayKey.pem ec2-user@3.82.144.189
+  233  ssh -i MumbaiKey.pem ec2-user@15.207.100.131
+  234  ssh -i MumbaiKey.pem ec2-user@15.207.100.131
+  235  ssh -i MumbaiKey.pem ec2-user@15.207.100.131
+  236  ssh -i MumbaiKey.pem ec2-user@15.207.100.131
+  237  ssh -i myserver.pem ec2-user@54.167.48.111
+  238  ssh ec2-user@-----BEGIN RSA PRIVATE KEY-----
+  239  MIIEogIBAAKCAQEAmcngqUPLeYQ0VR6Nyh7sgZvC+d+l7vQSPB2rCVUR9KrSE6bT
+  240  QzGGVw9kHdWSBgolbaNElGuPB3VRw+tJ45t3Rw2ZMx24K1B65x3P7umLFOO4mAMz
+  241  ktcfPFxZl8ry0t6dELrRze6XygKnNVmr2DYiN3DHLYD6k888WfnglgnTL7kwrjBI
+  242  1y+eoIlblqrBdGYeKRwCgwcmr+jgI8M/vN5TG2g9P6DqeB8DJOkK/T+Kw5d3cXAW
+  243  /qfUFf0dTfJWHUjdNFaSUBzDcG0YebrR1XPWsXakMev72Cu7lKBm5f7l/AnFsP7H
+  244  HDZWMY4lsK3ToaNb3r9Djgjon2TltUaeZuRQwwIDAQABAoIBAD1BY/MHxexI9G9T
+  245  FDcFyj51xFuy8W0UWo8HYjD9aYGC6NpbAJsrBs92mfIoN1mggPgCqDZWAUp/OGpJ
+  246  Nc0rB3+Nsw/hLpJSJCIahdArxfI0IjqqS8iZVx+7yRPlCoNjmDwprZfRCTS1idR+
+  247  OyyLo2VhznQZg7WMPgW4ufQJRc0j3qdGJloNJEtURNtxHU8dFo4g1XQ8BEbUtgd2
+  248  J0qhNaoT1dyBhcXJ9kdHxqcXoKqKZATQpiaX1GMXYDlIzCPqRU+Z7z4cKFtlD5bP
+  249  6grW68AI9FPVi/I9cfY1tXUJLwqo9wrYqFCZTLM1WILdSEpTHSrlSbMNjOkahVU+
+  250  O7VAOgECgYEA5ja5LceyH/paJjIxuTQt5bg7v/Uu/VfDRmCXBlEq7YCZ/7zj+cc4
+  251  7TNmVTBn14mIkgGvZ/JlCJt2lKp9INNLYH1QYpcV8fuvlPAmML6hprBKaEVYja/g
+  252  2MkQTr7WWfzNe+OCV6YDZj+3NjPUQLpQMn7YQFNK9NHIcxNkDBTohmECgYEAqwOy
+  253  SMxMUcSenQjvagEKHI7GBU8k4sj0wPL9Ufg1oUbsDc50HHnTX5nRB2em5zixyKa0
+  254  QjzYOSFxFTlgSSukvfiy4MvSlPimLuystOlOtcgC2GVM5qrADp2rcHeCkt0HZITC
+  255  x2XdSlwMU8Br8NGPL1tT8S5ujkuJokHSFitsYaMCgYAoobn3UYqnyDkHCs7p4ELF
+  256  i8nH7I9ZmZbWog+lxser2YnUsFMQb9AlVXAXUw7Q5O5czr1VvFuGtGGuhZTGKWTh
+  257  Z9y7Oe1eo0xvHh+vdMX1NKI9WxfxEfy+ZmZhb59HjK370sDblWp+Lnq4r1ckAX5M
+  258  G0UxvUG6ihg171M2Kq6LoQKBgAeBNgWz0XWVJ1DE35zLRuJR8aax/nBlWThOcYdz
+  259  WQcm0Z0ZfkbxobEEUwP8LHrhJgwkJKzzdpmrOgcwaWVMoQIlM9RhnXAkKUbN5BZc
+  260  VrPrfxR3/ZPx0lPR34Aj/nrrcDOdD98oPTnSKEhUnWgICjyNyXVAEGH2NqgEM2/9
+  261  n9f5AoGAayTV4h+6YL9uKoeiQY6cU/z6Dh741agEZMWm4GoL2K/2DeuBlAMbfleY
+  262  ZrA/pUqV1x9X/OB/7+s3j8FtCGyya2kqmOkZr3ONfpevaapiS1J1ec1GXifIexjf
+  263  NLN2ElEwodwtdo1Zm1sMn/BC5YgzOmHFHc/9n6ILBC1rndEDCa4=
+  264  ssh ec2-user@54.167.48.111
+  265  ssh ec2-user@54.167.48.111 -i myserver.pem 
+  266  ssh ec2-user@54.167.48.111
+  267  ssh -i myserver.pem ec2-user@3.92.197.32
+  268  ssh -i myserver.pem ec2-user@3.92.197.32
+  269  ssh -i myserver.pem ec2-user@3.92.197.32
+  270  ssh -i myserver.pem ec2-user@3.92.197.32
+  271  ssh -i myserver.pem ec2-user@3.92.197.32
+  272  ssh -i myserver.pem ec2-user@54.172.113.32
+  273  ssh -i myserver.pem ec2-user@3.83.91.228
+  274  ssh -i myserver.pem ec2-user@3.90.7.251
+  275  ssh -i myserver.pem ec2-user@
+  276  ssh -i myserver.pem ec2-user@34.207.127.143
+  277  ssh -i myserver.pem ec2-user@
+  278  ssh -i myserver.pem ec2-user@34.207.127.143
+  279  ssh -i myserver.pem ec2-user@54.167.163.57
+  280  ssh -i myserver.pem ec2-user@3.86.191.215
+  281  ssh -i myserver.pem ec2-user@54.208.114.175
+  282  ssh -i myserver.pem ec2-user@54.208.114.175
+  283  ssh -i myserver.pem ec2-user@3.82.172.234
+  284  ssh -i myserver.pem ec2-user@3.87.28.53
+  285  ssh -i myserver.pem id_rsa.pub ec2-user@3.82.205.203:/home/ec2-user/authorized_keys
+  286  ssh -i myserver.pem ec2-user@3.82.205.203
+  287  ssh ec2-user@3.82.205.203
+  288  ssh ec2-user@3.82.205.203
+  289  s
+  290  ssh ec2-user@3.82.205.203
+  291  ssh ec2-user@3.82.205.203
+  292  ssh ec2-user@3.82.205.203
+  293  ssh ec2-user@3.82.205.203
+  294  ssh ec2-user@3.82.205.203
+  295  ssh ec2-user@3.82.205.203
+  296  ssh ec2-user@3.82.205.203
+  297  ssh ec2-user@3.82.205.203
+  298  ssh ec2-user@3.82.205.203
+  299  ssh -i myserver.pem ec2-user@18.206.247.17
+  300  touch testfile
+  301  ssh -i myserver.pem testfile ec2-user@18.206.247.17:/home/ec2-user
+  302  scp -i myserver.pem testfile ec2-user@18.206.247.17:/home/ec2-user
+  303  rm testfile 
+  304  touch testfile.txt
+  305  scp -i myserver.pem testfile.txt ec2-user@
+  306  scp -i myserver.pem testfile.txt ec2-user@18.206.247.17:/home/ec2-user
+  307  ssh -i Mackey.pem ec2-user@34.226.245.167
+  308  ssh-keygen -t rsa
+  309  ssh -i myserver.pem ec2-user@54.89.51.96
+  310  ssh ec2-user@54.89.51.96
+  311  ssh ec2-user@54.208.67.0
+  312  ssh ec2-user@54.208.67.0
+  313  ssh -i Mackey.pem ec2-user@3.82.152.18
+  314  ssh -i Mackey.pem ec2-user@3.85.47.196
+  315  ssh -i Mackey.pem ec2-user@3.83.99.97
+  316  ssh -i Mackey.pem ec2-user@3.83.99.97
+  317  ssh -i Mackey.pem ec2-user@3.83.99.97
+  318  ssh -i Mackey.pem ec2-user@184.72.95.148
+  319  ssh -i Mackey.pem ec2-user@184.72.95.148
+  320  ssh -i Mackey.pem ec2-user@35.174.154.82
+  321  ssh -i Mackey.pem ec2-user@35.174.154.82
+  322  ssh-keygen -t rsa
+  323  ssh-keygen -t rsa
+  324  ssh ec2-user@
+  325  ssh ec2-user@3.87.2.84
+  326  aws configure
+  327  ssh -i Mackey.pem ec2-user@44.201.141.151
+  328  scp -r noah-master madhu@34.201.65.235:/home/madhu
+  329  scp -r noah-master ec2-user@34.201.65.235:/home/ec2-user
+  330  scp -r noah-master root@34.201.65.235:/root
+  331  ssh ec2-user@44.201.153.158 -p 3387
+  332  ssh ec2-user@184.73.213.230 -p 3387
+  333  ssh ec2-user@184.73.213.230 -p 3387
+  334  ssh ec2-user@184.73.213.230 -p 3387
+  335  cd dow
+  336  ssh -i whikey.pem ec2-user@54.165.107.40
+  337  ssh -i whikey.pem ec2-user@54.165.107.40
+  338  ssh -i whikey.pem ec2-user@52.70.197.212
+  339  ssh -i whikey.pem ec2-user@52.70.197.212
+  340  ssh -i tmpkey.pem ec2-user@3.87.189.1
+  341  ssh -i tmpkey.pem ec2-user@3.87.189.1
+  342  aws configure
+  343  aws s3 ls
+  344  aws iam list-users
+  345  ssh -i whiz_key.pem ec2-user@18.212.61.189
+  346  ssh ec2-user@184.73.213.230 -p 3387
+  347  ssh ec2-user@184.73.213.230 -p 3387
+  348  touch testfile
+  349  scp -i Mackey.pem testfile ec2-user@ Mackey.pem
+  350  scp -i Mackey.pem testfile ec2-user@34.238.121.1:/home/ec2-user
+  351  scp -i Mackey.pem Mackey.pem ec2-user@34.238.121.1:/home/ec2-user
+  352  ssh -i Mackey.pem ec2-user@34.238.121.1
+  353  pyhton
+  354  python
+  355  cd Udacity/
+  356  python python.py 
+  357  python python.py 
+  358  ssh -i Mackey.pem ec2-user@3.88.137.139
+  359  ssh -i Mackey.pem ec2-user@54.210.192.149
+  360  ssh -i Mackey.pem ec2-user@52.90.6.207
+  361  ssh ec2-user@52.90.6.207
+  362  ssh ec2-user@184.73.213.230
+  363  ssh ec2-user@184.73.213.230 -p 3387
+  364  ssh ec2-user@184.73.213.230 -p 3387
+  365  ssh ec2-user@184.73.213.230 -p 3387
+  366  ssh ec2-user@184.73.213.230 -p 3387
+  367  ssh hyma@184.73.213.230 -p 3387
+  368  ssh ec2-user@184.73.213.230 -p 3387
+  369  ssh hyma@184.73.213.230 -p 3387
+  370  ssh -i Mackey.pem ec2-user@44.201.211.182
+  371  ssh hyma@184.73.213.230 -p 3387
+  372  ssh ec2-user@184.73.213.230 -p 3387
+  373  ssh -i Mackey.pem ec2-user@3.94.62.173
+  374  ssh -i Mackey.pem ec2-user@3.86.177.143
+  375  ssh -i Mackey.pem ec2-user@54.237.194.122
+  376  ssh -i Mackey.pem ec2-user@54.237.194.122
+  377  ssh ec2-user@54.237.194.122
+  378  ssh ec2-user@54.237.194.122 -i id_rsa
+  379  ssh-keygen -t rsa
+  380  ssh ec2-user@184.73.213.230 -p 3387
+  381  ssh ec2-user@184.73.213.230 -p 3387
+  382  ssh -i Mackey.pem ec2-user@3.81.184.43
+  383  ssh -i Mackey.pem ec2-user@3.81.184.43 -p 3387
+  384  ssh ec2
+  385  ssh -i ec2-user@3.81.184.43 -p 3387
+  386  ssh ec2-user@3.81.184.43 -p 3387
+  387  ssh ec2-user@3.81.184.43 -p 3387
+  388  ssh ec2-user@3.81.184.43 -p 3387 -i Mackey.pem 
+  389  ssh ec2-user@184.73.213.230 -p 3387
+  390  ssh ec2-user@184.73.213.230 -p 3387 -i Mackey.pem 
+  391  ssh ec2-user@184.73.213.230 -p 3387
+  392  ssh ec2-user@184.73.213.230 -p 3387
+  393  ssh ec2-user@184.73.213.230 -p 3387
+  394  ssh ec2-user@18.215.187.226 -p 3387
+  395  ssh ec2-user@18.215.187.226 -p 3387
+  396  ssh ec2-user@18.215.187.226 -p 3387
+  397  ssh surya@184.73.213.230 -p 3387
+  398  ssh surya@184.73.213.230 -p 3387
+  399  ssh ec2-user@184.73.213.230 -p 3387
+  400  ssh ec2-user@184.73.213.230 -p 3387
+  401  ssh ec2-user@3.92.180.187 -p 3387
+  402  ssh ec2-user@3.92.180.187 -p 3387
+  403  ssh ec2-user@3.92.180.187 -p 3387
+  404  ssh ec2-user@3.92.180.187 -p 3387
+  405  ssh ec2-user@34.229.252.139 -p 3387
+  406  ssh ec2-user@34.229.252.139 -p 3387
+  407  ssh surya@184.73.213.230 -p 3387
+  408  git clone https://github.com/awsdevop183/firstgitpractice.git
+  409  cd firstgitpractice/
+  410  ls -la
+  411  vi index.html
+  412  git status
+  413  git status
+  414  touch file2
+  415  git status
+  416  git add index.html 
+  417  git status
+  418  rm -rf file2 
+  419  git status
+  420  git commit -m "Intial commit"
+  421  git status
+  422  git log
+  423  git config user.name madhu
+  424  git config user.email madhu@mail.com
+  425  git remote -v
+  426  git branch
+  427  git branch -a
+  428  git push origin main
+  429  ls
+  430  git pull
+  431  ls
+  432  ls
+  433  git pull
+  434  ls
+  435  git branch
+  436  git branch settings
+  437  git branch
+  438  git switch settings
+  439  git branch
+  440  ls
+  441  touch sarath
+  442  ls
+  443  git add sarath 
+  444  git commit -m "New branch commit"
+  445  ls
+  446  git log
+  447  ls
+  448  git switch main
+  449  ls
+  450  git switch settings
+  451  ls
+  452  git branch
+  453  git switch main
+  454  ls
+  455  git checkout settings 
+  456  ls
+  457  git checkout -b feature
+  458  ls
+  459  git checkout main
+  460  ls
+  461  git merge settings
+  462  ls
+  463  git log
+  464  git log
+  465  ls
+  466  git log
+  467  ls
+  468  cat index.html 
+  469  git checkout settings 
+  470  ls
+  471  cat index.html 
+  472  cat index.html 
+  473  vi index.html 
+  474  git status
+  475  git commit -am "Index file updated"
+  476  git checkout main
+  477  cat index.html 
+  478  vi index.html 
+  479  git commit -am "Update from Main Branch"
+  480  cat index.html 
+  481  git checkout settings 
+  482  cat index.html 
+  483  git checkout main
+  484  git merge settings 
+  485  vi index.html 
+  486  git status
+  487  git status
+  488  git add .
+  489  git commit -m "Merge conflict resolved"
+  490  git status
+  491  git push
+  492  git checkout settings
+  493  git push
+  494  git push origin settings
+  495  git branch
+  496  git branch -d settings
+  497  git checkout main
+  498  git branch -d settings
+  499  git branch
+  500  git branch
+  501  history
+  502  history > commands.txt
